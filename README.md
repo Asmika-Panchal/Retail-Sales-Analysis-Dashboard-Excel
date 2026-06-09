@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Dashboard (Excel)
+# 📊 Retail Sales Analysis Dashboard (Excel)
 
 ## 📌 Project
 Interactive Sales Dashboard created using Microsoft Excel to analyze sales data using Pivot Tables, Charts, Slicers, KPI cards, and VBA Macros.
